@@ -1,6 +1,6 @@
 {
-  "name": "request",
-  "description": "Simplified HTTP request client.",
+  "name": "@sailshq/request",
+  "description": "A fork of Request with ongoing maintenance from the Sails core team.",
   "keywords": [
     "http",
     "simple",
@@ -11,10 +11,10 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "https://github.com/sailshq/request.git"
   },
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "http://sailsjs.com/bugs"
   },
   "license": "Apache-2.0",
   "engines": {
